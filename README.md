@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi 👋, I'm Devarapalli Tejesh
 
-<!--
-**tejad66/tejad66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### B.Tech ECE Student | Aspiring Developer | Tirupati, India
 
-Here are some ideas to get you started:
+I build beautiful websites using Vibe Coding with Bolt. I love turning ideas into real, live websites.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 My Projects
+
+- **💼 tejesh-portfolio** - My personal portfolio website
+- **👗 tirupati-fashion-store** - A beautiful clothing store demo
+- **🍛 tirupati-spice-house** - A beautiful restaurant website
+- **🛕 tirupati-help-guide** - A helpful guide for Tirupati - temples, food, travel
+
+### 🛠️ Skills
+
+HTML | CSS | JavaScript | Vibe Coding | Bolt | GitHub | GitHub Pages
+
+### 📫 Connect With Me
+
+- 📧 devarapallitejesh@gmail.com
+- 🌐 https://tejad66.github.io/tejesh-portfolio/
+
+---
+⭐ Star my repos if you like my work!
